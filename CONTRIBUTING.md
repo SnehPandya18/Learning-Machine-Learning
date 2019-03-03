@@ -8,7 +8,7 @@ Here are the guidelines we'd like you to follow:
  - [Found an Issue?](#issue)
 
 ## <a name="coc"></a> Code of Conduct
-[Code of Conduct](https://github.com/SnehPandya18/Learning-Machine-Learning/CODE_OF_CONDUCT.md)
+[Code of Conduct](https://github.com/SnehPandya18/Learning-Machine-Learning/blob/master/CODE_OF_CONDUCT.md)
 
 ## <a name="commit"></a> Git Commit Messages
 
@@ -35,14 +35,14 @@ Where did you expect to find this information?
 If you find a bug, misinformation or a mistake in the documentation, you can help us by
 submitting an issue to our project.
 
-To submit an issue, please check the [Issue Template](https://github.com/SnehPandya18/Learning-Machine-Learning/ISSUE_TEMPLATE.md).
+To submit an issue, please check the [Issue Template](https://github.com/SnehPandya18/Learning-Machine-Learning/blob/master/ISSUE_TEMPLATE.md).
 
 Even better you can submit a Pull Request with a fix.
 
 ### Pull Request
-To generate a pull request, please consider following [Pull Request Template](https://github.com/SnehPandya18/Learning-Machine-Learning/PULL_REQUEST_TEMPLATE.md).
+To generate a pull request, please consider following [Pull Request Template](https://github.com/SnehPandya18/Learning-Machine-Learning/blob/master/PULL_REQUEST_TEMPLATE.md).
 
 * Search for an open or closed Pull Request that relates to your submission. You don't want to duplicate effort.
-* Please have a look at [License](https://github.com/SnehPandya18/Learning-Machine-Learning/LICENSE.md) before sending pull requests. We cannot accept changes without this.
+* Please have a look at [License](https://github.com/SnehPandya18/Learning-Machine-Learning/blob/master/LICENSE.md) before sending pull requests. We cannot accept changes without this.
 
 That's it! Thank you for your contribution!
